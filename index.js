@@ -1,38 +1,3 @@
-// let nombre = prompt("ingrese un nombre")
-// let edad = prompt("ingrese su edad")
-
-// if (edad >= 18) {
-//     console.log("hola " + nombre + " adulto responsable")
-// } else {
-//     console.log("hola " + nombre + " pendejo menor")
-// }
-
-// let precio = 1500
-// let oferr = parseInt(prompt("ingrese su oferta:"))
-
-// if (precio <= oferr) {
-//     console.log("I like it that!")
-
-// } else {
-//     console.warn("no way bitch")
-// }
-
-
-// let sign = parseInt(prompt("Ingrese su edad:"))
-// while (sign != "ESC") {
-//     switch (sign) {
-//         case sign >= 18:
-//             alert("si")
-//             break;
-//         case sign < 18:
-//             alert("no")
-//             break;
-//         default:
-//             break;
-
-//     }
-//     sign = parseInt(prompt("Ingrese su edad:"))
-// }
 
 let nombre = prompt("ingrese su nombre:")
 let consultorio = 0
